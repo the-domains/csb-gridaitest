@@ -1,0 +1,28 @@
+name: CSB-GridAITest
+favicon: null
+layout_spectrum: 0.44534098193980753
+typography_spectrum: 0.45926756248809397
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5628851889632642
+  lightness: 0.8792462681885809
+  saturation: 0.8870900780893862
+  rhythmicContrast: 0.38374324701726437
+purpose: []
